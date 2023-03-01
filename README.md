@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amir Sela</h1>
-<h3 align="center">A passionate full-stack developer from Israel, Feel free to take a look at my repositories.
-connect with me if you'd like to chat about technology, life, or anything in between.</h3>
+<h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 I’m recently built [Funday], base on Monday.com(https://funday.onrender.com/)
+- 🔭 I’m recently built Funday, base on Monday.com [Funday](https://funday.onrender.com/)
 
-- 🌱 **Proficient in building single-page apps**
+- 🌱 I'm proficient in **building single-page apps**
 
 - 📫 You can reach me at **amirsela10@gmail.com**
+
+- ⚡ Fun fact **I love Surfing and playing on my guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
